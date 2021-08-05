@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-offCanvas-menu/static/css/main.933e942e.chunk.css",
+    "main.js": "/react-offCanvas-menu/static/js/main.fe2cf4ce.chunk.js",
+    "main.js.map": "/react-offCanvas-menu/static/js/main.fe2cf4ce.chunk.js.map",
+    "runtime-main.js": "/react-offCanvas-menu/static/js/runtime-main.405edc25.js",
+    "runtime-main.js.map": "/react-offCanvas-menu/static/js/runtime-main.405edc25.js.map",
+    "static/js/2.58549a9d.chunk.js": "/react-offCanvas-menu/static/js/2.58549a9d.chunk.js",
+    "static/js/2.58549a9d.chunk.js.map": "/react-offCanvas-menu/static/js/2.58549a9d.chunk.js.map",
+    "index.html": "/react-offCanvas-menu/index.html",
+    "static/css/main.933e942e.chunk.css.map": "/react-offCanvas-menu/static/css/main.933e942e.chunk.css.map",
+    "static/js/2.58549a9d.chunk.js.LICENSE.txt": "/react-offCanvas-menu/static/js/2.58549a9d.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/react-offCanvas-menu/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.405edc25.js",
+    "static/js/2.58549a9d.chunk.js",
+    "static/css/main.933e942e.chunk.css",
+    "static/js/main.fe2cf4ce.chunk.js"
+  ]
+}
