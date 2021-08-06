@@ -20,9 +20,7 @@ import React, { useState, useEffect, useRef } from 'react'; // eslint-disable-li
 function OffCanvas({
   show             = false,
   hideOffCanvas,
-  showOffCanvas,
-  toggleOffCanvas,  
-  title            = null, 
+  title            = '', 
   headerContent    = null,
   bodyContent      = <div className="p-5 bg-light text-center border rounded-3">Body Content Goes Here...</div>,
   position         = 'start', 
@@ -167,7 +165,7 @@ function OffCanvas({
         ref={offCanvasRef} 
         className={className ? `${offCanvasClassName} ${className}` : offCanvasClassName} 
         style={style}
-        tabIndex="-1"
+        tabIndex={-1}
       >
 
         { headerContent && (
